@@ -1,4 +1,4 @@
-module github.com/reveever/go-weixin-sogou
+module github.com/nianxing/wechatgocrawler
 
 go 1.17
 
